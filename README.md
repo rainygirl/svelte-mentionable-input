@@ -10,6 +10,10 @@ ContentEditable input component that automatically colors mentions and hashtags.
 - Composing 모드가 존재하는 CJK (중국어, 일본어, 한국어) 글자와 다양한 IME 버그에도 불구하고 원활히 작동하는 입력 컴포넌트입니다.
 - MacOS, Chrome 과 Safari 브라우저에서 테스트되었습니다.
 
+## Screenshot
+
+![CJKMentionableInput.svelte Screenshot](https://user-images.githubusercontent.com/1021138/216605658-a3b95a51-964d-40a1-ad49-23608c8e4a6f.gif)
+
 ## Getting Started
 
 ```
